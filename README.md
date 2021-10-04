@@ -2,7 +2,7 @@
 
 The objectives of this research are:
 
-1. Find the attributes that makes a Spotify song popular.
+1. Find what makes a Spotify song popular.
 2. Predict the popularity of a song on Spotify.
 
 # Contact
