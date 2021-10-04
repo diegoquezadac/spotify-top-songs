@@ -1,1 +1,10 @@
-# spotify-top-songs
+# About
+
+The objectives of this research are:
+
+1. Find the attributes that makes a Spotify song popular.
+2. Predict the popularity of a song on Spotify.
+
+# Contact
+
+- Email me: diego.quezadac@sansano.usm.cl
